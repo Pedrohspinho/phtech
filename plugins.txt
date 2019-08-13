@@ -1,0 +1,13 @@
+Akismet Anti-Spam
+
+	
+Contact Form 7
+
+	
+Flamingo
+
+Postman SMTP
+
+
+
+<?php echo '<a href="'.$row_Recordset1['link'].'">'.$row_Recordset1['link'].'</a>
